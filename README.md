@@ -19,3 +19,5 @@ public class Example : ObsoleteMonoBehaviour
     }
 }
 ```
+
+![ScreenShot00007](https://user-images.githubusercontent.com/6134875/210162296-0afcf5b2-28b5-4db4-ad45-47b46e454351.png)
